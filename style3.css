@@ -1,0 +1,73 @@
+body {
+	background-image:url(fon.png);
+	background-color:#FDECFE;
+	min-width: 1024px;
+	min-height: 600px;
+}
+
+a {
+	font-size:30px;
+	color:#211924;
+	text-decoration: none;
+}
+
+#take {
+	font-size:45px;
+	text-align:center;
+	color:#211924;
+}
+
+#Ger {
+	position: absolute;
+	right: 100px;
+	top: 60px;
+	z-index: 1;
+}
+
+#king {
+	position: absolute;
+	left: 100px;
+	top: 60px;
+	z-index: 1;
+}
+
+
+#link {
+	text-align:center;
+}
+
+#ludibrium {
+	position: absolute;
+	left:70px;
+	z-index: 2;
+	bottom: 5px;
+}
+
+#ty {
+	position: absolute;
+	bottom: 0px;
+	left: 41.5%
+}
+
+#g4 {
+	position: absolute;
+	right:100px;
+	z-index: 2;
+	bottom: 0px;
+}
+
+#description1 {
+	position:absolute;
+	z-index:0;
+	bottom:250px;
+	left:330px
+
+
+}
+
+#description2 {
+	position:absolute;
+	z-index:0;
+	right:400px;
+	bottom:175px;
+}
